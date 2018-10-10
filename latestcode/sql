@@ -1,0 +1,3 @@
+import mysql.connector
+#global cn, query, cursor
+#cn = mysql.connector.connect(user='sigrow_read', password='1234',host='database.sigrow.com',database='sigrow')
